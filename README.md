@@ -1,8 +1,9 @@
-# 个人主页
-# 个人信息
-- 姓名： xjl-Steven
-- 单位: 南京师范大学商学院
+# Homepage
+# Personal information
+- xjl-Steven（only Steven better
+- School of Business, Nanjing Normal University
 
-# 与我交流
+# Communicate with me
+- **issues** you can find me.
 
-# 我的动态
+# My activity
