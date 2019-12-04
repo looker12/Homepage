@@ -10,7 +10,3 @@
 # My activity & Download navigation
 - 20191204 test
   more information can be find here: https://github.com/xingjialong/file
-
-- good
-
-- xiugaihenduodongxi
