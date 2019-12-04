@@ -1,6 +1,6 @@
 # Homepage
 # Personal information
-- ![头像](https://github.com/looker12/Homepage/blob/master/wechat-photo.jpg "wechat photo")
+- ![wechat photo](https://github.com/looker12/Homepage/blob/master/wechat-photo.jpg "wechat photo")
 - xjl-Steven（only Steven better
 - School of Business, Nanjing Normal University
 
