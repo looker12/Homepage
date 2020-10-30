@@ -24,6 +24,5 @@ This may be a window for us to get to know each other.
 
 
 ### For myself
-I can use the [editor on GitHub](https://github.com/xingjialong/MyHomepage/edit/gh-pages/index.md) to maintain and preview the content for my website in Markdown files.
-
-Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
+- I can use the [editor on GitHub](https://github.com/xingjialong/MyHomepage/edit/gh-pages/index.md) to maintain and preview the content for my website in Markdown files.
+- Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
