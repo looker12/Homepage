@@ -3,7 +3,7 @@
 This may be a window for us to get to know each other.
 
 ## Personal information
-- Jialong Xing [杏稼龙]
+- Jialong Xing
 - School of Business, Nanjing Normal University
 
 ## Communicate with me
@@ -22,6 +22,6 @@ This may be a window for us to get to know each other.
 
 
 
-### For myself
+## For myself
 - I can use the [editor on GitHub](https://github.com/xingjialong/MyHomepage/edit/gh-pages/index.md) to maintain and preview the content for my website in Markdown files.
 - Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
