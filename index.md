@@ -3,7 +3,7 @@
 This may be a window for us to get to know each other.
 
 ## Personal information
-- Jialong Xing
+- Jialong Xing [杏稼龙]
 - School of Business, Nanjing Normal University
 
 ## Communicate with me
