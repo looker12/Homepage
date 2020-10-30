@@ -3,7 +3,6 @@
 This may be a window for us to get to know each other.
 
 ## Personal information
-- ![photo](https://github.com/xingjialong/MyHomepage/blob/master/photo.jpg "photo")
 - Jialong Xing
 - School of Business, Nanjing Normal University
 
