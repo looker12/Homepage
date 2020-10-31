@@ -1,4 +1,4 @@
-## WELCOME TO Jialong Xing's GITHUB PAGES.
+## Jialong Xing's Homepage
 This may be a window for us to get to know each other.
 
 ## Ⅰ.Personal information
