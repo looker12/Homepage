@@ -2,11 +2,11 @@
 # 【Personal information】
 ## ![wechat photo](https://github.com/xingjialong/Homepage/blob/master/wechat-photo.jpg "wechat photo")
 ## Jialong Xing
-## School of Business, Nanjing Normal University
+## School of Business, Nanjing University
 ##
 
 # 【Communicate with me】
-## 180502006@njnu.edu.cn
+## xjl96100@126.com
 ##
 
 # 【My activity & Download navigation】
