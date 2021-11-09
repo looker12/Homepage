@@ -2,7 +2,7 @@
 # 【Personal information】
 ## ![wechat photo](https://github.com/xingjialong/Homepage/blob/master/wechat-photo.jpg "wechat photo")
 ## Jialong Xing
-## School of Business, Nanjing University
+## Biz School, Nanjing University
 ##
 
 # 【Communicate with me】
