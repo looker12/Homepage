@@ -3,10 +3,10 @@ This may be a window for us to get to know each other.
 
 ## Ⅰ.Personal information
 - Jialong Xing [杏稼龙]
-- School of Business, Nanjing Normal University
+- Biz School, Nanjing University
 
 ## Ⅱ.Communicate with me
-- 180502006@njnu.edu.cn
+- xjl96100@126.com
 
 ## Ⅲ.My activity & Download navigation
 ### 20201030 【Published Paper】
