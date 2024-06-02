@@ -1,6 +1,6 @@
 ## Jialong Xing's Homepage
-This may be a window for us to get to know each other.
-More communication, more cooperation, more progress.
+- This may be a window for us to get to know each other.
+- More communication, more cooperation, more progress.
 
 ## Ⅰ.Personal Information
 - Jialong Xing [杏稼龙]
