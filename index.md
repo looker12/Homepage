@@ -13,7 +13,7 @@
 
 ### 20240515 【论文发表】
 - 《数字技术对企业无形资本投入强度的影响》（山西财经大学学报，第一作者，CSSCI）
-- 论文链接：https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9t80kCqa3GPNrwszn9gsNrPXQNMKTUbJABiLHcNRx86MOKJr5lOo5WhgID-ASowfp8WmF-AiLGxWCftGk6ThW817t7dnRG0cjifLIaPbqoXxw==&uniplatform=NZKPT&language=gb
+- 论文下载链接：[知网](https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9t80kCqa3GPNrwszn9gsNrPXQNMKTUbJABiLHcNRx86MOKJr5lOo5WhgID-ASowfp8WmF-AiLGxWCftGk6ThW817t7dnRG0cjifLIaPbqoXxw==&uniplatform=NZKPT&language=gb)或[github]([https://github.com/xingjialong/file](https://github.com/xingjialong/file/blob/master/%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%AF%B9%E4%BC%81%E4%B8%9A%E6%97%A0%E5%BD%A2%E8%B5%84%E6%9C%AC%E6%8A%95%E5%85%A5%E5%BC%BA%E5%BA%A6%E7%9A%84%E5%BD%B1%E5%93%8D_%E6%9D%8F%E7%A8%BC%E9%BE%99.pdf)
 
 ### 20231215 【论文发表】
 - 《商业模式创新赋能企业关键核心技术突破：内在机制与经验证据》（研究与发展管理，第一作者，CSSCI）
